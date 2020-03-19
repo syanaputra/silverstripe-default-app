@@ -1,0 +1,22 @@
+{
+    "name": "syanaputra/silverstripe-default-app",
+    "description": "Default Silverstripe 4 app",
+    "type": "silverstripe-module",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Stephanus Yanaputra",
+            "email": "stephanus.yanaputra@gmail.com"
+        }
+    ],
+    "require": {
+        "silverstripe/recipe-cms": "^1.1",
+        "syanaputra/silverstripe-extra-template-syntax": "^1",
+        "syanaputra/silverstripe-clio-theme": "^dev-master"
+    },
+    "extra": {
+        "expose": [
+            "client"
+        ]
+    }
+}
