@@ -13,5 +13,8 @@
     ],
     "require": {
 
+    },
+    "extra": {
+        "installer-name": "app"
     }
 }
